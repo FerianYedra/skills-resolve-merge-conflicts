@@ -1,1 +1,1 @@
-Thi is some new text.
+This is some new text.
